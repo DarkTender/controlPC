@@ -1,6 +1,6 @@
 # This program is basic for control your pc and all basic function
 
-Move file in /usr/local/bin for automatic start and crate your file: "controlpc", and use this command
+Move file in /usr/local/bin for automatic start and crate your file: "controlpc", and use this command in nano, mousepad,...
 
     #!/usr/bin/env python3 
 
